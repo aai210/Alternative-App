@@ -12,7 +12,7 @@
 
 **Notes** -> Obsidian 
 
-**Authenticator** -> Aegis /  / Ente Auth
+**Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / Ente Auth
 
 **Cloud Drive** -> Mega / Proton Drive
 
