@@ -6,11 +6,13 @@
 
 **Mail** -> Proton Mail
 
-**Calendar** -> 
+**Mail (Smartphone App)** -> Thunderbird
 
-**Calendar** -> 
+**Calendar** -> Proton Calendar
 
-**Authenticator** -> Aegis / Ente Auth
+**Notes** -> Obsidian 
+
+**Authenticator** -> Aegis /  / Ente Auth
 
 **Cloud Drive** -> Mega / Proton Drive
 
