@@ -1,8 +1,10 @@
 # Alternative-App
 
-**Search (Web & Images)** -> DuckDuckGo
-
 **Browser** -> Firefox / Brave
+
+**Browser Extensions** -> uBlock Origin / DuckDuckGo Privacy Essentials
+
+**Search (Web & Images)** -> DuckDuckGo
 
 **Mail** -> Proton Mail
 
@@ -12,10 +14,12 @@
 
 **Notes** -> Obsidian 
 
+**Password Manager** -> KeePassXC 
+
 **Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / Ente Auth
 
 **Cloud Drive** -> Mega / Proton Drive
 
-**Translate** -> 
+**Translate** -> DeepL
 
-**Maps** -> 
+**Maps** -> Organic Maps
