@@ -8,18 +8,18 @@
 
 **Mail** -> Proton Mail
 
-**Mail (Smartphone App)** -> Thunderbird
+**Mail (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
 **Calendar** -> Proton Calendar
 
 **Notes** -> Obsidian 
 
-**Password Manager** -> KeePassXC 
+**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) /  
 
 **Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / [Ente Auth](https://github.com/ente-io/ente)
 
 **Cloud Drive** -> Mega / Proton Drive
 
-**Translate** -> DeepL
+**Translate** -> [DeepL](https://deepl.com)
 
 **Maps** -> Organic Maps
