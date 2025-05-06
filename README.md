@@ -1,6 +1,6 @@
 # Alternative-App
 
-**Browser** -> Firefox / Brave
+**Browser** -> Firefox / Brave / Vivaldi
 
 **Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 
