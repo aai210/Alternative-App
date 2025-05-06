@@ -2,7 +2,7 @@
 
 **Browser** -> Firefox / Brave
 
-**Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / DuckDuckGo Privacy Essentials
+**Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 
 **Search (Web & Images)** -> DuckDuckGo
 
