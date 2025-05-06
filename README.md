@@ -22,4 +22,4 @@
 
 **Translate** -> [DeepL](https://deepl.com)
 
-**Maps** -> Organic Maps
+**Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps)
