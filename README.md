@@ -16,7 +16,7 @@
 
 **Password Manager** -> KeePassXC 
 
-**Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / Ente Auth
+**Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / [Ente Auth](https://github.com/ente-io/ente)
 
 **Cloud Drive** -> Mega / Proton Drive
 
