@@ -23,3 +23,5 @@
 **Translate** -> [DeepL](https://deepl.com)
 
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps)
+
+**Other** -> [LocalSend](https://github.com/localsend/localsend)
