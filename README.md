@@ -4,7 +4,7 @@
 
 **Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 
-**Search (Web & Images)** -> DuckDuckGo
+**Search (Web & Images)** -> [DuckDuckGo](https://duckduckgo.com)
 
 **Mail** -> Proton Mail
 
