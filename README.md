@@ -14,9 +14,9 @@
 
 **Notes** -> [Obsidian](https://obsidian.md) 
 
-**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) /  
+**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / Bitwarden / Proton Pass 
 
-**Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / [Ente Auth](https://github.com/ente-io/ente)
+**Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://2fas.com)
 
 **Cloud Drive** -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
