@@ -1,6 +1,6 @@
 # Alternative-App
 
-**Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / Vivaldi
+**Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
 
 **Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 
