@@ -18,7 +18,7 @@
 
 **Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) /  / [Ente Auth](https://github.com/ente-io/ente)
 
-**Cloud Drive** -> Mega / Proton Drive
+**Cloud Drive** -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
 **Translate** -> [DeepL](https://deepl.com)
 
