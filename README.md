@@ -6,15 +6,15 @@
 
 **Search (Web & Images)** -> [DuckDuckGo](https://duckduckgo.com)
 
-**Mail** -> Proton Mail
+**Mail** -> [Proton Mail](https://proton.me/mail)
 
 **Mail (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
-**Calendar** -> Proton Calendar
+**Calendar** -> [Proton Calendar](https://proton.me/calendar)
 
 **Notes** -> [Obsidian](https://obsidian.md) 
 
-**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / Bitwarden / Proton Pass 
+**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) / [Proton Pass](https://proton.me/pass) 
 
 **Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://2fas.com)
 
