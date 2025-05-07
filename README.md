@@ -24,8 +24,8 @@
 
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps)
 
-**Other** -> [LocalSend](https://github.com/localsend/localsend)
+**File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
 
-**Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+**Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 
