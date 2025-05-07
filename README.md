@@ -4,13 +4,13 @@
 
 **Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension)
 
-**Search (Web & Images)** -> [DuckDuckGo](https://duckduckgo.com)
+**Search (Web & Images)** -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](https://search.brave.com)
 
 **Mail** -> [Proton Mail](https://proton.me/mail)
 
 **Mail (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
-**Calendar** -> [Proton Calendar](https://proton.me/calendar)
+**Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone App)](https://github.com/FossifyOrg/Calendar)
 
 **Notes** -> [Obsidian](https://obsidian.md) 
 
@@ -25,3 +25,7 @@
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps)
 
 **Other** -> [LocalSend](https://github.com/localsend/localsend)
+
+**Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+
+
