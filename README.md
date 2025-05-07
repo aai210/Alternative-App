@@ -12,7 +12,9 @@
 
 **Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone App)](https://github.com/FossifyOrg/Calendar)
 
-**Notes** -> [Obsidian](https://obsidian.md) 
+**Tasks and Habits** -> [Habitica](https://habitica.com)
+
+**Notes** -> [Obsidian](https://obsidian.md)
 
 **Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) / [Proton Pass](https://proton.me/pass) 
 
