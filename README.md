@@ -41,4 +41,4 @@
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
-**Store App** -> [Obtainium](https://github.com/ImranR98/Obtainium)
+**Store App (Smartphone App)** -> [Obtainium](https://github.com/ImranR98/Obtainium)
