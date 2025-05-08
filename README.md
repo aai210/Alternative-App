@@ -31,10 +31,12 @@
 **Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 
-# Advanced-Applications
+# Advanced-App
 
 **Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
 
 **Photo and Video management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
+
+**Store App** -> [Obtainium](https://github.com/ImranR98/Obtainium)
