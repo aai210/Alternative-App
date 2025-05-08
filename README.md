@@ -37,7 +37,7 @@
 
 **Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
 
-**Photo and Video management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
+**Photo and Video Management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
