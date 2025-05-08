@@ -22,11 +22,11 @@
 
 **Cloud Drive** -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
+**File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
+
 **Translate** -> [DeepL](https://deepl.com)
 
-**Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps)
-
-**File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
+**Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap](https://www.openstreetmap.org) 
 
 **Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
