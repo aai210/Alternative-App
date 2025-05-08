@@ -30,6 +30,8 @@
 
 **Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
+**Media Player** -> [VLC](https://github.com/videolan/vlc) 
+
 
 # Advanced-App
 
