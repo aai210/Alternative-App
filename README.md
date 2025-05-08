@@ -26,7 +26,7 @@
 
 **Translate** -> [DeepL](https://deepl.com)
 
-**Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap](https://www.openstreetmap.org) 
+**Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
 **Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
