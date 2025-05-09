@@ -39,6 +39,8 @@
 
 **Photo and Video Management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
 
+**Smart Devices (Self-Hosting)** -> [Home Assistant](https://github.com/home-assistant/core)
+
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
 **Store App (Smartphone App)** -> [Obtainium](https://github.com/ImranR98/Obtainium)
