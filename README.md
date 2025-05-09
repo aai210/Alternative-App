@@ -14,7 +14,7 @@
 
 **Tasks and Habits** -> [Habitica](https://habitica.com)
 
-**Notes** -> [Obsidian](https://obsidian.md)
+**Notes** -> [Obsidian](https://obsidian.md) / [Joplin ](https://github.com/laurent22/joplin)
 
 **Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) / [Proton Pass](https://proton.me/pass) 
 
