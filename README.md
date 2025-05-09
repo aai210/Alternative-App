@@ -44,3 +44,5 @@
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
 **Store App (Smartphone App)** -> [Obtainium](https://github.com/ImranR98/Obtainium)
+
+**OS** -> Ubuntu / PopOS! / ParrotOS / ElementaryOS
