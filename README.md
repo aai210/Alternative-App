@@ -51,9 +51,11 @@
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
+
 # Useful Links
 | Name | Description |
 | ---- | ----------- |
 | [Reddit Privacy](https://www.reddit.com/r/degoogle/) | The subreddit /r/privacy/ focuses on issues related to privacy, security, and personal data protection online. Users discuss tools, technologies, and practices to safeguard personal information, share news, tips, and resources, and address current events related to privacy violations and data protection. |
 | [Reddit Degoogle](https://www.reddit.com/r/degoogle/) | The subreddit /r/RedditDegoogle is dedicated to discussions about reducing reliance on Google services and promoting alternatives that prioritize user privacy. Members share tips, tools, and resources for transitioning away from Google products, as well as discuss the implications of using more privacy-focused services. |
 | [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted on your own server(s). |
+| [Degoogle](https://github.com/tycrek/degoogle) | A huge list of alternatives to Google products. Privacy tips, tricks, and links. |
