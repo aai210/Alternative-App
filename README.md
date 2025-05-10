@@ -1,4 +1,4 @@
-## Alternative App
+# Alternative App
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
 
@@ -35,7 +35,7 @@
 **Media Player** -> [VLC](https://github.com/videolan/vlc) 
 
 
-## Advanced App
+# Advanced App
 
 **Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
 
@@ -51,7 +51,7 @@
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
-## Useful Links
+# Useful Links
 | Name | Description |
 | ---- | ----------- |
 | [Reddit Privacy](https://www.reddit.com/r/degoogle/) | The subreddit /r/privacy/ focuses on issues related to privacy, security, and personal data protection online. Users discuss tools, technologies, and practices to safeguard personal information, share news, tips, and resources, and address current events related to privacy violations and data protection. |
