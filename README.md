@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://blog.internxt.com/content/images/size/w2000/2024/11/which_files_do_you_need-_to_encrypt.png"/>
+
+*Illustration by Internxt*
+
+</div>
+
 # Alternative App
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
