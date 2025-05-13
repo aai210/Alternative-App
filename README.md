@@ -6,6 +6,8 @@
 
 </div>
 
+If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. The use of privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over information, and creates confidence in a safe online experience.
+
 # Alternative App
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
