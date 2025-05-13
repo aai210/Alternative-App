@@ -6,7 +6,7 @@
 
 </div>
 
-If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. The use of privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over information, and creates confidence in a safe online experience.
+If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. In most cases, you will have to take care of data storage and backup on your own. The use of privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over information, and creates confidence in a safe online experience.
 
 # Alternative App
 
