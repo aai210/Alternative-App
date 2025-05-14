@@ -57,7 +57,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Store App (Smartphone App)** -> [Obtainium](https://github.com/ImranR98/Obtainium)
 
-**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Parrot OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Elementary OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Parrot OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Elementary OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Linux Mint](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
