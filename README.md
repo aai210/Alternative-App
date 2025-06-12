@@ -59,7 +59,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Security (Smartphone App)** -> [Rethink](https://github.com/celzero/rethink-app)
 
-**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Parrot OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Elementary OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Linux Mint](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Parrot OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Elementary OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Linux Mint](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [SteamOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
