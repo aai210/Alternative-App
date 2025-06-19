@@ -34,8 +34,6 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
 
-**Translate** -> [DeepL](https://deepl.com)
-
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
 **Photo Gallery (Smartphone App)** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
