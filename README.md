@@ -42,6 +42,8 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Media Player** -> [VLC](https://github.com/videolan/vlc) 
 
+**Keyboard (Smartphone App)** -> [Simple Keyboard](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
+
 
 # Advanced App
 
