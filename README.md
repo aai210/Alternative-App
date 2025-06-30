@@ -18,7 +18,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Mail** -> [Proton Mail](https://proton.me/mail)
 
-**Mail (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
+**Mail Clients (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
 **Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone App)](https://github.com/FossifyOrg/Calendar)
 
