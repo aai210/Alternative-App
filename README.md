@@ -63,6 +63,8 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
+**Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan)
+
 
 # Useful Links
 | Name | Description |
