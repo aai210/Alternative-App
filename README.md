@@ -8,6 +8,14 @@
 
 If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. This list is organized in a way that allows for a quick and easy start without requiring any special knowledge. Most of the mentioned applications are open source. Using privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over your information, and fosters confidence in a safe online experience.
 
+### What's the difference between Privacy, Security, Anonymity?
+
+- Privacy is the control over access to your personal information, including awareness of the data being collected and the right to decide who can see and use it.
+
+- Security is the protection of your personal information from unauthorized access and theft, ensuring reliable storage and safeguarding data from threats.
+
+- Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
+
 # Alternative App
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
