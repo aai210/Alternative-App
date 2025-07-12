@@ -84,8 +84,3 @@ If you are tired of privacy and security issues and want to improve them, this l
 | [Awesome Privacy](https://github.com/pluja/awesome-privacy) | List of free, open source and privacy respecting services and alternatives to privative services. |
 | [Degoogle](https://github.com/tycrek/degoogle) | A huge list of alternatives to Google products. Privacy tips, tricks, and links. |
 | [Reddit Linux](https://www.reddit.com/r/linux/) | This is a community for sharing news about Linux, interesting developments and press. |
-
-## Icons
-| Icon | Description |
-| ---- | ----------- |
-| 📱 | Smartphone Only. |
