@@ -16,7 +16,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 - Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
-# Alternative App
+## Alternative App
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
 
@@ -53,7 +53,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 **Keyboard (Smartphone App)** -> [Simple Keyboard](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
 
 
-# Advanced App
+## Advanced App
 
 **Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
 
@@ -74,7 +74,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 **Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
 
-# Useful Links
+## Useful Links
 | Name | Description |
 | ---- | ----------- |
 | [EFF](https://www.eff.org) | Electronic Frontier Foundation it is a non-profit organization that protects civil liberties in the digital world, including rights to privacy, freedom of speech, and innovation. It was founded in 1990. |
