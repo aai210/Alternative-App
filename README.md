@@ -16,7 +16,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 - Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
-## Alternative App
+## Simple
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
 
@@ -53,7 +53,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 **Keyboard (Smartphone App)** -> [Simple Keyboard](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
 
 
-## Advanced App
+## Advanced
 
 **Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
 
