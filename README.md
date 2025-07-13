@@ -73,6 +73,8 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
+**AdBlock (Smartphone App)** -> [AdAway](https://github.com/AdAway/AdAway) 
+
 
 ## Useful Links
 | Name | Description |
