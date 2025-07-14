@@ -17,7 +17,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 - Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
 ## Simple
-This list includes applications and services that do not require special knowledge to use. They are installed in a standard way.
+This list includes applications and services that do not require special knowledge to use. They are installed in standard ways, such as through the official website or application stores for Android and iOS, etc.
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
 
