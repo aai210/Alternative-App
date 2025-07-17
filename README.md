@@ -53,7 +53,9 @@ This list includes applications and services that do not require special knowled
 
 **Keyboard (Smartphone App)** -> [Simple Keyboard](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
 
-**BitTorrent Client** -> [qBittorrent](https://github.com/qbittorrent/qBittorrent) 
+**BitTorrent Client** -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
+ **3D Computer Graphics** -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
 
 
 ## Advanced
