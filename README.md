@@ -57,6 +57,8 @@ This list includes applications and services that do not require special knowled
 
  **3D Computer Graphics** -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
 
+ **2D Computer Graphics** -> [Krita](https://github.com/KDE/krita)
+
 
 ## Advanced
 This list includes applications and services that require advanced knowledge to use, such as working with APK files and server configuration, etc. You need to understand what you are doing and what for before you start using this list. Read the documentation before use.
