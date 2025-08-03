@@ -57,7 +57,7 @@ This list includes applications and services that do not require special knowled
 
  **3D Computer Graphics** -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
 
- **2D Computer Graphics** -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net)
+ **2D Computer Graphics** -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) / [Affinity Photo](https://affinity.serif.com/en-gb/photo/) 
 
 
 ## Advanced
