@@ -83,6 +83,8 @@ This list includes applications and services that require advanced knowledge to 
 
 **AdBlock (Smartphone App)** -> [AdAway](https://github.com/AdAway/AdAway) 
 
+**Weather (Smartphone App)** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
+
 
 ## Useful Links
 | Name | Description |
