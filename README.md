@@ -75,7 +75,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Security (Smartphone App)** -> [Rethink](https://github.com/celzero/rethink-app)
 
-**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Mint](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Garuda](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Arch](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [CachyOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Nobara](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Bazzite](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [ZorinOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Fedora](https://en.wikipedia.org/wiki/List_of_Linux_distributions)  / [Manjaro](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+**Linux OS** -> [Ubuntu](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Pop!_OS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Mint](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Arch](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [CachyOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Nobara](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Bazzite](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [ZorinOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Fedora](https://en.wikipedia.org/wiki/List_of_Linux_distributions)  / [Manjaro](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
