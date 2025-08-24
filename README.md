@@ -29,7 +29,7 @@ This list includes applications and services that do not require special knowled
 
 **Mail Clients (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
 
-**Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone App)](https://github.com/FossifyOrg/Calendar)
+**Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone)](https://github.com/FossifyOrg/Calendar)
 
 **Tasks and Habits** -> [Habitica](https://habitica.com) / [Planify (Linux)](https://github.com/alainm23/planify)
 
