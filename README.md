@@ -98,3 +98,4 @@ This list includes applications and services that require advanced knowledge to 
 | [Awesome Privacy](https://github.com/pluja/awesome-privacy) | List of free, open source and privacy respecting services and alternatives to privative services. |
 | [Degoogle](https://github.com/tycrek/degoogle) | A huge list of alternatives to Google products. Privacy tips, tricks, and links. |
 | [Reddit Linux](https://www.reddit.com/r/linux/) | This is a community for sharing news about Linux, interesting developments and press. |
+| [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) | This page provides general information about notable Linux distributions in the form of a categorized list. |
