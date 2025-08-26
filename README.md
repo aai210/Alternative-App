@@ -19,7 +19,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 ## Simple
 This list includes applications and services that do not require special knowledge to use. They can be installed in standard ways, such as through official websites or application stores for Android and iOS. This provides an easy and quick way to get started.
 
-**Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com)
+**Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com) / [DuckDuckGo](https://duckduckgo.com/app)
 
 **Browser Extensions** -> [uBlock Origin](https://github.com/gorhill/uBlock) / [DuckDuckGo Privacy Essentials](https://github.com/duckduckgo/duckduckgo-privacy-extension) / [Privacy Badger](https://github.com/EFForg/privacybadger)
 
