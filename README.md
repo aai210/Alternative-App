@@ -27,7 +27,7 @@ This list includes applications and services that do not require special knowled
 
 **Mail** -> [Proton Mail](https://proton.me/mail)
 
-**Mail Clients (Smartphone App)** -> [Thunderbird](https://github.com/thunderbird/thunderbird-android)
+**Mail Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
 
 **Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone)](https://github.com/FossifyOrg/Calendar)
 
