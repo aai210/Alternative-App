@@ -31,7 +31,7 @@ This list includes applications and services that do not require special knowled
 
 **Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Smartphone)](https://github.com/FossifyOrg/Calendar)
 
-**Tasks and Habits** -> [Habitica](https://habitica.com) / [Todoist](https://www.todoist.com) / [Any.Do](https://www.any.do) / [Tasks.org (Smartphone)](https://github.com/tasks/tasks) / [Planify (Linux)](https://github.com/alainm23/planify) / [TickTick](https://ticktick.com)
+**Tasks and Habits** -> [Habitica](https://habitica.com) / [Todoist](https://www.todoist.com) / [Any.Do](https://www.any.do) / [Tasks.org (Android)](https://github.com/tasks/tasks) / [Planify (Linux)](https://github.com/alainm23/planify) / [TickTick](https://ticktick.com)
 
 **Notes** -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22/joplin) / [Quillpad (Smartphone)](https://github.com/quillpad/quillpad)
 
