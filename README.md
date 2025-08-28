@@ -45,7 +45,7 @@ This list includes applications and services that do not require special knowled
 
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
-**Photo Gallery** -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+**Photo Gallery** -> [Fossify Gallery (Android)](https://github.com/FossifyOrg/Gallery)
 
 **File Manager (Smartphone App)** -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
