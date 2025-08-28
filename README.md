@@ -47,7 +47,7 @@ This list includes applications and services that do not require special knowled
 
 **Photo Gallery** -> [Fossify Gallery (Android)](https://github.com/FossifyOrg/Gallery)
 
-**File Manager (Smartphone App)** -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
+**File Manager** -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 **Media Player** -> [VLC](https://github.com/videolan/vlc) 
 
