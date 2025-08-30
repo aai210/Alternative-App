@@ -25,9 +25,9 @@ This list includes applications and services that do not require special knowled
 
 **Search (Web & Images)** -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](https://search.brave.com)
 
-**Mail** -> [Proton Mail](https://proton.me/mail)
+**Email** -> [Proton Mail](https://proton.me/mail)
 
-**Mail Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
+**Email Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
 
 **Email Protection** -> [DDG Email Protection](https://duckduckgo.com/email) / [Proton Mail Aliases](https://proton.me/mail)
 
