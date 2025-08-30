@@ -51,7 +51,7 @@ This list includes applications and services that do not require special knowled
 
 **Media Player** -> [VLC](https://github.com/videolan/vlc) 
 
-**Keyboard** -> [Simple Keyboard](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
+**Keyboard** -> [Simple Keyboard (Android)](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard](https://github.com/futo-org/android-keyboard) 
 
 **BitTorrent Client** -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
