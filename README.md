@@ -77,7 +77,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Security (Smartphone App)** -> [Rethink](https://github.com/celzero/rethink-app)
 
-**Linux OS** -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Pop!_OS](https://en.wikipedia.org/wiki/Pop!_OS) / [CachyOS](https://en.wikipedia.org/wiki/List_of_Linux_distributions) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux)  / [Manjaro](https://en.wikipedia.org/wiki/Manjaro)
+**Linux OS** -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Pop!_OS](https://en.wikipedia.org/wiki/Pop!_OS) / [CachyOS](https://de.wikipedia.org/wiki/CachyOS) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux)  / [Manjaro](https://en.wikipedia.org/wiki/Manjaro)
 
 **Android OS** -> [LineageOS](https://www.lineageos.org)
 
