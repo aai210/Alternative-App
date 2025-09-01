@@ -85,7 +85,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **AdBlock** -> [AdAway](https://github.com/AdAway/AdAway) 
 
-**Weather (Smartphone App)** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
+**Weather** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
 
 **Uninstaller (Smartphone App)** -> [Canta](https://github.com/samolego/Canta) 
 
