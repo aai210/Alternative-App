@@ -83,11 +83,11 @@ This list includes applications and services that require advanced knowledge to 
 
 **Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
-**AdBlock** -> [AdAway](https://github.com/AdAway/AdAway) 
+**AdBlock** -> [AdAway (Android)](https://github.com/AdAway/AdAway) 
 
-**Weather** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
+**Weather** -> [Breezy Weather (Android)](https://github.com/breezy-weather/breezy-weather) 
 
-**Uninstaller** -> [Canta](https://github.com/samolego/Canta) 
+**Uninstaller** -> [Canta (Android)](https://github.com/samolego/Canta) 
 
 
 ## Useful Links
