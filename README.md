@@ -87,7 +87,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Weather** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
 
-**Uninstaller (Smartphone App)** -> [Canta](https://github.com/samolego/Canta) 
+**Uninstaller** -> [Canta](https://github.com/samolego/Canta) 
 
 
 ## Useful Links
