@@ -83,7 +83,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
-**AdBlock (Smartphone App)** -> [AdAway](https://github.com/AdAway/AdAway) 
+**AdBlock** -> [AdAway](https://github.com/AdAway/AdAway) 
 
 **Weather (Smartphone App)** -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) 
 
