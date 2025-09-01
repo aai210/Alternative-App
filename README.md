@@ -73,7 +73,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
-**Store App** -> [Obtainium](https://github.com/ImranR98/Obtainium)
+**Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium)
 
 **Security** -> [Rethink](https://github.com/celzero/rethink-app)
 
