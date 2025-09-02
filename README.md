@@ -91,6 +91,7 @@ This list includes applications and services that require advanced knowledge to 
 
 
 ## Footnote
+Keyboard* - Although alternative keyboards are available, verify the safety of any third‑party keyboard before installing it. An untrustworthy keyboard can cause data leaks, so using the default keyboard is the safest option. For added security, consider restricting a keyboard’s network access with a firewall.
 
 
 ## Useful Links
