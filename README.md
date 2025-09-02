@@ -90,6 +90,9 @@ This list includes applications and services that require advanced knowledge to 
 **Uninstaller** -> [Canta (Android)](https://github.com/samolego/Canta) 
 
 
+## Footnote
+
+
 ## Useful Links
 | Name | Description |
 | ---- | ----------- |
