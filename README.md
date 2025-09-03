@@ -29,7 +29,7 @@ This list includes applications and services that do not require special knowled
 
 **Email Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
 
-**Email Protection** -> [DDG Email Protection](https://duckduckgo.com/email) / [Proton Mail Aliases](https://proton.me/mail)
+**Email Protection** -> [Firefox Relay](https://relay.firefox.com) / [DDG Email Protection](https://duckduckgo.com/email) / [Proton Mail Aliases](https://proton.me/mail)
 
 **Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Android)](https://github.com/FossifyOrg/Calendar)
 
