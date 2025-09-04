@@ -105,3 +105,4 @@ Keyboard* - Although alternative keyboards are available, verify the safety of a
 | [Degoogle](https://github.com/tycrek/degoogle) | A huge list of alternatives to Google products. Privacy tips, tricks, and links. |
 | [Reddit Linux](https://www.reddit.com/r/linux/) | This is a community for sharing news about Linux, interesting developments and press. |
 | [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) | This page provides general information about notable Linux distributions in the form of a categorized list. |
+| [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned) | Website that allows Internet users to check whether their personal data has been compromised by data breaches. |
