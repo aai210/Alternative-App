@@ -61,6 +61,8 @@ This list includes applications and services that do not require special knowled
 
  **2D Computer Graphics** -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) / [Affinity Photo](https://affinity.serif.com/en-gb/photo/) 
 
+**Code Editor** -> [VSCodium](https://github.com/VSCodium/vscodium)
+
 
 ## Advanced
 This list includes applications and services that require advanced knowledge to use, such as working with APK files and server configuration, etc. You need to understand what you are doing and what for before you start using this list. Read the documentation before use.
