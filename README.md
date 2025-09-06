@@ -61,6 +61,8 @@ This list includes applications and services that do not require special knowled
 
  **2D Computer Graphics** -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) / [Affinity Photo](https://affinity.serif.com/en-gb/photo/) 
 
+ **Design Tool** -> [Penpot](https://github.com/penpot/penpot)
+
 **Code Editor** -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 
