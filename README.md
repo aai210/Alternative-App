@@ -77,7 +77,7 @@ This list includes applications and services that require advanced knowledge to 
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
-**Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent)
+**Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
 
 **Firewall** -> [Rethink (Android)](https://github.com/celzero/rethink-app)
 
