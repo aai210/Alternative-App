@@ -53,7 +53,7 @@ This list includes applications and services that do not require special knowled
 
 **Media Player** -> [VLC](https://github.com/videolan/vlc) 
 
-**Music Player** -> [Auxio (Android)](https://github.com/OxygenCobalt/Auxio)
+**Music Player** -> [Auxio (Android)](https://github.com/OxygenCobalt/Auxio) / [Metrolist (Android)](https://github.com/mostafaalagamy/Metrolist)
 
 **Keyboard*** -> [Simple Keyboard (Android)](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard (Android)](https://github.com/futo-org/android-keyboard) 
 
