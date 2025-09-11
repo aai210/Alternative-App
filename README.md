@@ -104,6 +104,7 @@ Keyboard* - Although alternative keyboards are available, verify the safety of a
 | Name | Description |
 | ---- | ----------- |
 | [EFF](https://www.eff.org) | Electronic Frontier Foundation it is a non-profit organization that protects civil liberties in the digital world, including rights to privacy, freedom of speech, and innovation. It was founded in 1990. |
+| [PrivacyGuides](https://www.privacyguides.org) | Offers advice and instructions on ensuring privacy online. Helps users make informed decisions to enhance their digital security. |
 | [Reddit Privacy](https://www.reddit.com/r/privacy/) | The subreddit /r/privacy/ focuses on issues related to privacy, security, and personal data protection online. Users discuss tools, technologies, and practices to safeguard personal information, share news, tips, and resources, and address current events related to privacy violations and data protection. |
 | [Reddit Degoogle](https://www.reddit.com/r/degoogle/) | The subreddit /r/Degoogle is dedicated to discussions about reducing reliance on Google services and promoting alternatives that prioritize user privacy. Members share tips, tools, and resources for transitioning away from Google products, as well as discuss the implications of using more privacy-focused services. |
 | [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers. This is a list of Free Software network services and web applications which can be hosted on your own server(s). |
@@ -112,4 +113,3 @@ Keyboard* - Although alternative keyboards are available, verify the safety of a
 | [Reddit Linux](https://www.reddit.com/r/linux/) | This is a community for sharing news about Linux, interesting developments and press. |
 | [List of Linux distributions](https://en.wikipedia.org/wiki/List_of_Linux_distributions) | This page provides general information about notable Linux distributions in the form of a categorized list. |
 | [Have I Been Pwned?](https://en.wikipedia.org/wiki/Have_I_Been_Pwned) | Website that allows Internet users to check whether their personal data has been compromised by data breaches. |
-| [PrivacyGuides](https://www.privacyguides.org) | Offers advice and instructions on ensuring privacy online. Helps users make informed decisions to enhance their digital security. |
