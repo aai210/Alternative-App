@@ -92,11 +92,11 @@ This list includes applications and services that require advanced knowledge to 
 
 ## Self-Hosting
 
-**Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
+**Cloud App** -> [Nextcloud](https://github.com/nextcloud/server)
 
-**Photo and Video Management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
+**Photo and Video Management** -> [Immich](https://github.com/immich-app/immich)
 
-**Smart Devices (Self-Hosting)** -> [Home Assistant](https://github.com/home-assistant/core)
+**Smart Devices** -> [Home Assistant](https://github.com/home-assistant/core)
 
 
 ## Footnote
