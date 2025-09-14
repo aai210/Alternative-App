@@ -71,12 +71,6 @@ This list includes applications and services that do not require special knowled
 ## Advanced
 This list includes applications and services that require advanced knowledge to use, such as working with APK files and server configuration, etc. You need to understand what you are doing and what for before you start using this list. Read the documentation before use.
 
-**Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
-
-**Photo and Video Management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
-
-**Smart Devices (Self-Hosting)** -> [Home Assistant](https://github.com/home-assistant/core)
-
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
 **Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
@@ -94,6 +88,15 @@ This list includes applications and services that require advanced knowledge to 
 **Weather** -> [Breezy Weather (Android)](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster (Android)](https://github.com/PranshulGG/WeatherMaster)
 
 **Uninstaller** -> [Canta (Android)](https://github.com/samolego/Canta) 
+
+
+## Self-Hosting
+
+**Cloud App (Self-Hosting)** -> [Nextcloud](https://github.com/nextcloud/server)
+
+**Photo and Video Management (Self-Hosting)** -> [Immich](https://github.com/immich-app/immich)
+
+**Smart Devices (Self-Hosting)** -> [Home Assistant](https://github.com/home-assistant/core)
 
 
 ## Footnote
