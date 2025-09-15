@@ -55,8 +55,6 @@ This list includes applications and services that do not require special knowled
 
 **Music Player** -> [Musicolet (Android)](https://play.google.com) / [Auxio (Android)](https://github.com/OxygenCobalt/Auxio) / [Metrolist (Android)](https://github.com/mostafaalagamy/Metrolist)
 
-**Keyboard*** -> [Simple Keyboard (Android)](https://github.com/rkkr/simple-keyboard) / [FUTO Keyboard (Android)](https://github.com/futo-org/android-keyboard) 
-
 **BitTorrent Client** -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
  **3D Computer Graphics** -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
