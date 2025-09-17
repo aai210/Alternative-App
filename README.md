@@ -17,7 +17,6 @@ If you are tired of privacy and security issues and want to improve them, this l
 - Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
 ## Simple Installation
-This list includes applications and services that do not require special knowledge to use. They can be installed in standard ways, such as through official websites or application stores for Android and iOS. This provides an easy and quick way to get started.
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com) / [DuckDuckGo (Smartphone)](https://duckduckgo.com/app)
 
