@@ -16,7 +16,7 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 - Anonymity is the ability to act online without allowing others to trace your actions back to you, making you unrecognizable.
 
-## Simple
+## Simple Installation
 This list includes applications and services that do not require special knowledge to use. They can be installed in standard ways, such as through official websites or application stores for Android and iOS. This provides an easy and quick way to get started.
 
 **Browser** -> [Firefox](https://www.mozilla.org/en-US/firefox/new/) / [Brave](https://brave.com) / [Vivaldi](https://vivaldi.com) / [DuckDuckGo (Smartphone)](https://duckduckgo.com/app)
@@ -66,7 +66,7 @@ This list includes applications and services that do not require special knowled
 **Code Editor** -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 
-## Advanced
+## Advanced Installation
 This list includes applications and services that require advanced knowledge to use, such as working with APK files and server configuration, etc. You need to understand what you are doing and what for before you start using this list. Read the documentation before use.
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
