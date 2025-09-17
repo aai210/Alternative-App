@@ -66,7 +66,6 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 
 ## Advanced Installation
-This list includes applications and services that require advanced knowledge to use, such as working with APK files and server configuration, etc. You need to understand what you are doing and what for before you start using this list. Read the documentation before use.
 
 **Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
 
