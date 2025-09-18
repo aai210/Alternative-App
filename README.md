@@ -94,6 +94,8 @@ If you are tired of privacy and security issues and want to improve them, this l
 
 **Smart Devices** -> [Home Assistant](https://github.com/home-assistant/core)
 
+**Monitoring** -> [Changedetection](https://github.com/dgtlmoon/changedetection.io)
+
 
 ## Useful Links
 | Name | Description |
