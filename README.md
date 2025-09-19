@@ -24,7 +24,7 @@ Browser Extensions -> [uBlock Origin](https://github.com/gorhill/uBlock) / [Duck
 
 Search (Web & Images) -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](https://search.brave.com)
 
-**Email** -> [Proton Mail](https://proton.me/mail)
+Email -> [Proton Mail](https://proton.me/mail)
 
 **Email Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
 
