@@ -26,7 +26,7 @@ Search (Web & Images) -> [DuckDuckGo](https://duckduckgo.com) / [Brave Search](h
 
 Email -> [Proton Mail](https://proton.me/mail)
 
-**Email Clients** -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
+Email Clients -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thunderbird-android)
 
 **Email Protection** -> [Firefox Relay](https://relay.firefox.com) / [DDG Email Protection](https://duckduckgo.com/email) / [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin](https://github.com/simple-login/app)
 
