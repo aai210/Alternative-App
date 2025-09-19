@@ -30,7 +30,7 @@ Email Clients -> [Thunderbird (Smartphone)](https://github.com/thunderbird/thund
 
 Email Protection -> [Firefox Relay](https://relay.firefox.com) / [DDG Email Protection](https://duckduckgo.com/email) / [Proton Mail Aliases](https://proton.me/mail) / [SimpleLogin](https://github.com/simple-login/app)
 
-**Calendar** -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Android)](https://github.com/FossifyOrg/Calendar)
+Calendar -> [Proton Calendar](https://proton.me/calendar) / [Fossify Calendar (Android)](https://github.com/FossifyOrg/Calendar)
 
 **Tasks and Habits** -> [Habitica](https://habitica.com) / [Todoist](https://www.todoist.com) / [Any.Do](https://www.any.do) / [TickTick](https://ticktick.com) / [Tasks.org (Android)](https://github.com/tasks/tasks) / [Planify (Linux)](https://github.com/alainm23/planify)
 
