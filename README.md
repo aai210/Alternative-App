@@ -73,7 +73,7 @@ Tasks and Habits -> [Habitica](https://habitica.com) / [Todoist](https://www.tod
 
 **Firewall** -> [Rethink (Android)](https://github.com/celzero/rethink-app)
 
-**Linux OS** -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Pop!_OS](https://en.wikipedia.org/wiki/Pop!_OS) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [CachyOS](https://de.wikipedia.org/wiki/CachyOS) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux)
+**Linux OS** -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Pop!_OS](https://en.wikipedia.org/wiki/Pop!_OS) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [CachyOS](https://de.wikipedia.org/wiki/CachyOS) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux) / [Debian](https://en.wikipedia.org/wiki/Debian)
 
 **Android OS** -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
