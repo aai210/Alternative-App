@@ -36,7 +36,7 @@ Tasks and Habits -> [Habitica](https://habitica.com) / [Todoist](https://www.tod
 
 Notes -> [Obsidian](https://obsidian.md) / [Joplin](https://github.com/laurent22/joplin) / [Quillpad (Android)](https://github.com/quillpad/quillpad)
 
-**Password Manager** -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) / [Proton Pass](https://proton.me/pass) 
+Password Manager -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [Bitwarden](https://bitwarden.com) / [Proton Pass](https://proton.me/pass) 
 
 **Authenticator** -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://2fas.com)
 
