@@ -40,7 +40,7 @@ Password Manager -> [KeePassXC](https://github.com/keepassxreboot/keepassxc) / [
 
 Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth](https://github.com/ente-io/ente) / [2FAS](https://2fas.com)
 
-**Cloud Drive** -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
+Cloud Drive -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
 **File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
 
