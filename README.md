@@ -42,7 +42,7 @@ Authenticator -> [Aegis](https://github.com/beemdevelopment/Aegis) / [Ente Auth]
 
 Cloud Drive -> [Mega](https://mega.io) / [Proton Drive](https://proton.me/drive)
 
-**File Transfer** -> [LocalSend](https://github.com/localsend/localsend)
+File Transfer -> [LocalSend](https://github.com/localsend/localsend)
 
 **Maps** -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
