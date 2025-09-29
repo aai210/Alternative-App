@@ -50,7 +50,7 @@ Photo Gallery -> [Fossify Gallery (Android)](https://github.com/FossifyOrg/Galle
 
 File Manager -> [Fossify File Manager (Android)](https://github.com/FossifyOrg/File-Manager) / [Material Files (Android)](https://github.com/zhanghai/MaterialFiles)
 
-**Media Player** -> [VLC](https://github.com/videolan/vlc) 
+Media Player -> [VLC](https://github.com/videolan/vlc) 
 
 **Music Player** -> [Musicolet (Android)](https://play.google.com) / [Auxio (Android)](https://github.com/OxygenCobalt/Auxio) / [Metrolist (Android)](https://github.com/mostafaalagamy/Metrolist)
 
