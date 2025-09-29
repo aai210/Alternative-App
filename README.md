@@ -71,7 +71,7 @@ Music Player -> [Musicolet (Android)](https://play.google.com) / [Auxio (Android
 
 **Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
 
-**Firewall** -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster)
+**Firewall** -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [Simplewall](https://github.com/henrypp/simplewall)
 
 **Linux OS** -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [CachyOS](https://de.wikipedia.org/wiki/CachyOS) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux) / [Debian](https://en.wikipedia.org/wiki/Debian)
 
