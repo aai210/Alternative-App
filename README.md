@@ -62,7 +62,7 @@ BitTorrent Client -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
 Design Tool -> [Penpot](https://github.com/penpot/penpot)
 
-**Code Editor** -> [VSCodium](https://github.com/VSCodium/vscodium)
+Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 
 ## Advanced Installation
