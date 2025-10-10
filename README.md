@@ -67,7 +67,7 @@ Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 ## Advanced Installation
 
-**Synchronization** -> [Syncthing](https://github.com/syncthing/syncthing)
+Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 **Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
 
