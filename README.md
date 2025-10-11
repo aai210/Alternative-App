@@ -69,7 +69,7 @@ Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
-**Store App** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
+**Android App Store** -> [Obtainium (Android)](https://github.com/ImranR98/Obtainium) / [Accrescent (Android)](https://github.com/accrescent/accrescent) / [OpenAPK (Android)](https://github.com/mobilenetworkltd/openapk)
 
 **Firewall** -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [Simplewall](https://github.com/henrypp/simplewall) / [GlassWire](https://www.glasswire.com)
 
