@@ -2,8 +2,6 @@
 
 <img src="https://blog.internxt.com/content/images/size/w2000/2024/11/which_files_do_you_need-_to_encrypt.png"/>
 
-*Illustration by Internxt*
-
 </div>
 
 If you are tired of privacy and security issues and want to improve them, this list of alternative apps may help you. Using privacy and security-focused applications protects your personal data, ensures anonymity, reduces the risk of hacks and leaks, provides control over your information, and fosters confidence in a safe online experience. This list includes applications and services that offer both simple installation through official websites or app stores, as well as more complex options that require knowledge of working with APK files and server configuration.
