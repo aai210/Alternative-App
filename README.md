@@ -77,7 +77,7 @@ Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https:/
 
 Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
-**Artificial Intelligence** -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
+Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
 **AdBlock** -> [AdAway (Android)](https://github.com/AdAway/AdAway) 
 
