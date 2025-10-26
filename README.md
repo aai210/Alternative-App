@@ -90,7 +90,7 @@ Uninstaller -> [Canta (Android)](https://github.com/samolego/Canta)
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
-**Photo and Video Management** -> [Immich](https://github.com/immich-app/immich)
+Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
 
 **Smart Devices** -> [Home Assistant](https://github.com/home-assistant/core)
 
