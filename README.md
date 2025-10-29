@@ -94,7 +94,7 @@ Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
-**Monitoring** -> [Changedetection](https://github.com/dgtlmoon/changedetection.io)
+Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io)
 
 
 ## Useful Links
