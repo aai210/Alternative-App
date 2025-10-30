@@ -64,6 +64,8 @@ Design Tool -> [Penpot](https://github.com/penpot/penpot)
 
 Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
+Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
+
 
 ## Advanced Installation
 
