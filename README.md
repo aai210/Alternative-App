@@ -46,7 +46,7 @@ File Transfer -> [LocalSend](https://github.com/localsend/localsend)
 
 Maps -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
-Photo Gallery -> [Fossify Gallery (Android)](https://github.com/FossifyOrg/Gallery)
+Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 File Manager -> [Fossify File Manager (Android)](https://github.com/FossifyOrg/File-Manager) / [Material Files (Android)](https://github.com/zhanghai/MaterialFiles)
 
