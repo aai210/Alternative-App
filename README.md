@@ -48,7 +48,7 @@ Maps -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreet
 
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
-Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files (Android)](https://github.com/zhanghai/MaterialFiles)
+Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 Media Player -> [VLC](https://github.com/videolan/vlc) 
 
