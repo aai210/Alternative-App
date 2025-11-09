@@ -52,7 +52,7 @@ Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/Fil
 
 Media Player -> [VLC](https://github.com/videolan/vlc) 
 
-Music Player -> [Musicolet (Android)](https://play.google.com) / [Auxio (Android)](https://github.com/OxygenCobalt/Auxio) / [Metrolist (Android)](https://github.com/mostafaalagamy/Metrolist)
+Android Music Player -> [Musicolet (Android)](https://play.google.com) / [Auxio (Android)](https://github.com/OxygenCobalt/Auxio) / [Metrolist (Android)](https://github.com/mostafaalagamy/Metrolist)
 
 BitTorrent Client -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
