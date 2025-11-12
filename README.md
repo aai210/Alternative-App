@@ -81,7 +81,7 @@ Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.w
 
 Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
-Android AdBlock -> [AdAway (Android)](https://github.com/AdAway/AdAway) 
+Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
 Weather -> [Breezy Weather (Android)](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster (Android)](https://github.com/PranshulGG/WeatherMaster)
 
