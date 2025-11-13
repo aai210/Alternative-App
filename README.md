@@ -64,7 +64,7 @@ Design Tool -> [Penpot](https://github.com/penpot/penpot)
 
 Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
-Android Book Tracker -> [Openreads (Android)](https://github.com/mateusz-bak/openreads)
+Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
 
 ## Advanced Installation
