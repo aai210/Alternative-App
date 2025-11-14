@@ -83,7 +83,7 @@ Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](ht
 
 Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
-Android Weather -> [Breezy Weather (Android)](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster (Android)](https://github.com/PranshulGG/WeatherMaster)
+Android Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster (Android)](https://github.com/PranshulGG/WeatherMaster)
 
 Android Uninstaller -> [Canta](https://github.com/samolego/Canta) 
 
