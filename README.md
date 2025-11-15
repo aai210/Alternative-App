@@ -48,8 +48,6 @@ Maps -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreet
 
 Media Player -> [VLC](https://github.com/videolan/vlc) 
 
-Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
-
 BitTorrent Client -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
 3D Computer Graphics -> [Blender](https://en.wikipedia.org/wiki/Blender_(software))
@@ -63,6 +61,8 @@ Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
+
+Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
 
 Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
