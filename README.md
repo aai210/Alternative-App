@@ -46,8 +46,6 @@ File Transfer -> [LocalSend](https://github.com/localsend/localsend)
 
 Maps -> [Organic Maps](https://github.com/organicmaps/organicmaps) / [OpenStreetMap (Web)](https://www.openstreetmap.org)
 
-Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
-
 Media Player -> [VLC](https://github.com/videolan/vlc) 
 
 Android Music Player -> [Musicolet](https://play.google.com) / [Auxio](https://github.com/OxygenCobalt/Auxio)
@@ -63,6 +61,8 @@ Design Tool -> [Penpot](https://github.com/penpot/penpot)
 Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
+
+Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
