@@ -69,8 +69,6 @@ Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
 ## Advanced Installation
 
-Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
-
 Firewall -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [Simplewall](https://github.com/henrypp/simplewall) / [GlassWire](https://www.glasswire.com)
 
 Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https://en.wikipedia.org/wiki/Manjaro) / [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu) / [Zorin_OS](https://en.wikipedia.org/wiki/Zorin_OS) / [CachyOS](https://de.wikipedia.org/wiki/CachyOS) / [Nobara](https://en.wikipedia.org/wiki/Nobara_(operating_system)) / [Bazzite](https://en.wikipedia.org/wiki/Bazzite_(operating_system)) / [Fedora](https://en.wikipedia.org/wiki/Fedora_Linux) / [Debian](https://en.wikipedia.org/wiki/Debian)
@@ -78,6 +76,8 @@ Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Manjaro](https:/
 Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
 Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
+
+Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
 Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
 
