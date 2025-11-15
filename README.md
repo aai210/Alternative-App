@@ -77,6 +77,8 @@ Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.w
 
 Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai)
 
+Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
+
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
 Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway) 
@@ -84,8 +86,6 @@ Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway)
 Android Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 Android Uninstaller -> [Canta](https://github.com/samolego/Canta) 
-
-Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 
 ## Self-Hosting
