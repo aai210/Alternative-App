@@ -69,8 +69,6 @@ Android Book Tracker -> [Openreads](https://github.com/mateusz-bak/openreads)
 
 ## Advanced Installation
 
-Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
-
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
 
 Firewall -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [Simplewall](https://github.com/henrypp/simplewall) / [GlassWire](https://www.glasswire.com)
@@ -86,6 +84,8 @@ Android AdBlock -> [AdAway](https://github.com/AdAway/AdAway)
 Android Weather -> [Breezy Weather](https://github.com/breezy-weather/breezy-weather) / [WeatherMaster](https://github.com/PranshulGG/WeatherMaster)
 
 Android Uninstaller -> [Canta](https://github.com/samolego/Canta) 
+
+Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 
 ## Self-Hosting
