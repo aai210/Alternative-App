@@ -98,7 +98,7 @@ Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
 Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io)
 
-Streaming Service -> 
+Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin)
 
 
 ## Useful Links
