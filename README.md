@@ -73,7 +73,7 @@ Linux OS -> [Mint](https://en.wikipedia.org/wiki/Linux_Mint) / [Ubuntu](https://
 
 Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 
-Firewall -> [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [Simplewall](https://github.com/henrypp/simplewall) / [GlassWire](https://www.glasswire.com)
+Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [GlassWire](https://www.glasswire.com)
 
 Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [ComfyUI](https://github.com/comfyanonymous/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Continue](https://github.com/continuedev/continue)
 
