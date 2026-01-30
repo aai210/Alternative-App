@@ -104,6 +104,8 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 
 Web Proxy Cache -> [Squid](https://github.com/squid-cache/squid)
 
+Security -> 
+
 
 ## Useful Links
 | Name | Description |
