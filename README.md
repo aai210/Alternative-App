@@ -104,7 +104,7 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 
 Web Proxy Cache -> [Squid](https://github.com/squid-cache/squid)
 
-Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban)
+Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https://github.com/netblue30/firejail) 
 
 
 ## Useful Links
