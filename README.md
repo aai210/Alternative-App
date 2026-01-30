@@ -54,8 +54,6 @@ BitTorrent Client -> [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 
 2D Computer Graphics -> [Krita](https://github.com/KDE/krita) / [Clip Studio Paint](https://www.clipstudio.net) 
 
-Design Tool -> [Penpot](https://github.com/penpot/penpot)
-
 Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 Screen Capture -> [ShareX](https://github.com/ShareX/ShareX)
