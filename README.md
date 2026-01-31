@@ -108,6 +108,8 @@ Web Proxy Cache -> [Squid](https://github.com/squid-cache/squid)
 
 Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https://github.com/netblue30/firejail)
 
+Dashboard ->
+
 
 ## Useful Links
 | Name | Description |
