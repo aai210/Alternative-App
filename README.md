@@ -92,6 +92,8 @@ Android Uninstaller -> [Canta](https://github.com/samolego/Canta)
 
 ## Self-Hosting
 
+Dashboard -> [Glance](https://github.com/glanceapp/glance)
+
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
 Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
