@@ -92,7 +92,7 @@ Android Uninstaller -> [Canta](https://github.com/samolego/Canta)
 
 ## Self-Hosting
 
-Dashboard -> [Glance](https://github.com/glanceapp/glance)
+Dashboard -> [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr)
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
