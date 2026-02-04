@@ -98,7 +98,7 @@ Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
 Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
 
-Design Tool -> [Penpot](https://github.com/penpot/penpot)
+Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
