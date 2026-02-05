@@ -112,7 +112,9 @@ Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https:
 
 Backup -> [Duplicati](https://github.com/duplicati/duplicati)
 
-Development Tools -> [Gitea](https://github.com/go-gitea/gitea) 
+Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
+
+Server Software -> [Gotify](https://github.com/gotify/server)
 
 
 ## Useful Links
