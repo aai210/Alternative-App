@@ -116,6 +116,8 @@ Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
 Server Software -> [Gotify](https://github.com/gotify/server)
 
+Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
+
 
 ## Useful Links
 | Name | Description |
