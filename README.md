@@ -120,7 +120,7 @@ Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
 Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
 
-Ghostfolio -> [Habitica](https://github.com/ghostfolio/ghostfolio)
+Finance -> [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 
 ## Useful Links
