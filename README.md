@@ -118,6 +118,8 @@ Server Software -> [Gotify](https://github.com/gotify/server)
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
+Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
+
 
 ## Useful Links
 | Name | Description |
