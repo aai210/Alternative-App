@@ -98,7 +98,7 @@ Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https:
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
-Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
+Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
