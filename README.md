@@ -94,6 +94,8 @@ Android Uninstaller -> [Canta](https://github.com/samolego/Canta)
 
 Dashboard -> [Glance](https://github.com/glanceapp/glance) / [Homarr](https://github.com/homarr-labs/homarr)
 
+Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https://github.com/netblue30/firejail)
+
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
 Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
@@ -107,8 +109,6 @@ Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
 Web Proxy Cache -> [Squid](https://github.com/squid-cache/squid)
-
-Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) / [Firejail](https://github.com/netblue30/firejail)
 
 Backup -> [Duplicati](https://github.com/duplicati/duplicati)
 
