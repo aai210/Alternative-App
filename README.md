@@ -100,8 +100,6 @@ Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
 Photo and Video Management -> [Immich](https://github.com/immich-app/immich)
 
-Design Tools -> [Penpot](https://github.com/penpot/penpot)
-
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
 Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) / [Uptime Kuma](https://github.com/louislam/uptime-kuma) 
@@ -111,6 +109,8 @@ Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidro
 Web Proxy Cache -> [Squid](https://github.com/squid-cache/squid)
 
 Backup -> [Duplicati](https://github.com/duplicati/duplicati)
+
+Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
