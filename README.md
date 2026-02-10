@@ -102,7 +102,7 @@ Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
-Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) / [Uptime Kuma](https://github.com/louislam/uptime-kuma) 
+Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) / [Uptime Kuma](https://github.com/louislam/uptime-kuma) / [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
@@ -119,8 +119,6 @@ Server Software -> [Gotify](https://github.com/gotify/server)
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
 Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
-
-Finance -> [Ghostfolio](https://github.com/ghostfolio/ghostfolio)
 
 
 ## Useful Links
