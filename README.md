@@ -118,6 +118,8 @@ Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
 Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
 
+Communication -> [Mumble](https://github.com/mumble-voip/mumble)
+
 
 ## Useful Links
 | Name | Description |
