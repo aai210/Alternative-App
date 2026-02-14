@@ -60,6 +60,8 @@ Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 Screen Capture -> [ShareX](https://github.com/ShareX/ShareX)
 
+Communication -> [Stoat](https://stoat.chat)
+
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
 Android File Manager -> [Fossify File Manager](https://github.com/FossifyOrg/File-Manager) / [Material Files](https://github.com/zhanghai/MaterialFiles)
