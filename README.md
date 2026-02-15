@@ -114,7 +114,7 @@ Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
-Server Software -> [Gotify](https://github.com/gotify/server) / [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) / [Squid](https://github.com/squid-cache/squid) 
+Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Squid](https://github.com/squid-cache/squid) 
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
