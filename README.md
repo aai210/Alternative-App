@@ -104,7 +104,7 @@ Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
-Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) / [Uptime Kuma](https://github.com/louislam/uptime-kuma) / [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
+Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
