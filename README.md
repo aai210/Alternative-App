@@ -100,6 +100,8 @@ Security -> [Fail2Ban](https://github.com/fail2ban/fail2ban) - [Firejail](https:
 
 Cloud App -> [Nextcloud](https://github.com/nextcloud/server)
 
+Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
+
 Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
@@ -119,8 +121,6 @@ Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](htt
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
 Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperless-ngx)
-
-Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
 
 Communication -> [Stoat](https://github.com/stoatchat/self-hosted) / [Mumble](https://github.com/mumble-voip/mumble)
 
