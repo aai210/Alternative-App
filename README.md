@@ -118,6 +118,8 @@ Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](htt
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
+Document Management -> [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+
 Tasks and Habits -> [Habitica](https://github.com/HabitRPG/habitica)
 
 Communication -> [Stoat](https://github.com/stoatchat/self-hosted) / [Mumble](https://github.com/mumble-voip/mumble)
