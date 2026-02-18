@@ -124,7 +124,7 @@ Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperles
 
 Communication -> [Stoat](https://github.com/stoatchat/self-hosted) / [Mumble](https://github.com/mumble-voip/mumble)
 
-Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk)
+Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk) / [Termix](https://github.com/Termix-SSH/Termix)
 
 
 ## Useful Links
