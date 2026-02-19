@@ -60,7 +60,7 @@ Code Editor -> [VSCodium](https://github.com/VSCodium/vscodium)
 
 Screen Capture -> [ShareX](https://github.com/ShareX/ShareX)
 
-Communication -> [Stoat](https://stoat.chat)
+Communication -> [Stoat](https://stoat.chat) / [Signal](https://signal.org)
 
 Android Photo Gallery -> [Fossify Gallery](https://github.com/FossifyOrg/Gallery)
 
