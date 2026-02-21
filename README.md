@@ -116,7 +116,7 @@ Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
-Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Squid](https://github.com/squid-cache/squid) - [Unbound](https://github.com/NLnetLabs/unbound) - [Pi-hole](https://github.com/pi-hole/pi-hole)  
+Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Squid](https://github.com/squid-cache/squid) - [Unbound](https://github.com/NLnetLabs/unbound) - [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)  
 
 Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
