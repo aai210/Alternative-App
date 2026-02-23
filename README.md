@@ -116,7 +116,7 @@ Design Tools -> [Penpot](https://github.com/penpot/penpot)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
-Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Squid](https://github.com/squid-cache/squid)
+Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Squid](https://github.com/squid-cache/squid) - [File Browser](https://github.com/filebrowser/filebrowser)
 
 DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - [Unbound](https://github.com/NLnetLabs/unbound)   
 
