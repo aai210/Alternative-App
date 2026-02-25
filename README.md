@@ -79,7 +79,7 @@ Android OS -> [LineageOS](https://www.lineageos.org) / [GrapheneOS](https://en.w
 
 Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Android)](https://github.com/celzero/rethink-app) / [Portmaster](https://github.com/safing/portmaster) / [GlassWire](https://www.glasswire.com) / [NetGuard (Android)](https://github.com/M66B/NetGuard)
 
-Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [ComfyUI](https://github.com/comfyanonymous/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira)
+Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira)
 
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
