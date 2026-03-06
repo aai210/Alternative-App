@@ -81,6 +81,8 @@ Firewall -> [Simplewall](https://github.com/henrypp/simplewall) / [Rethink (Andr
 
 Artificial Intelligence -> [Ollama](https://github.com/ollama/ollama) / [Jan](https://github.com/menloresearch/jan) / [LM Studio](https://lmstudio.ai) / [ComfyUI](https://github.com/Comfy-Org/ComfyUI) / [Easy Diffusion](https://github.com/easydiffusion/easydiffusion) / [Continue](https://github.com/continuedev/continue) / [Scira](https://github.com/zaidmukaddam/scira) / [Perplexica](https://github.com/ItzCrazyKns/Perplexica) / [LocalAI](https://github.com/mudler/LocalAI)
 
+AI Image Generator -> 
+
 Synchronization -> [Syncthing](https://github.com/syncthing/syncthing)
 
 Android App Store -> [Obtainium](https://github.com/ImranR98/Obtainium) / [Accrescent](https://github.com/accrescent/accrescent) / [OpenAPK](https://github.com/mobilenetworkltd/openapk)
