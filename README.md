@@ -126,7 +126,7 @@ Bookmark Manager -> [Linkwarden](https://github.com/linkwarden/linkwarden)
 
 Document Management -> [Paperless-Ngx](https://github.com/paperless-ngx/paperless-ngx)
 
-Communication -> [Stoat](https://github.com/stoatchat/self-hosted) / [Mumble](https://github.com/mumble-voip/mumble) / [SimpleX](https://github.com/simplex-chat/simplexmq) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Element](https://github.com/element-hq/element-web) / [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+Communication -> [Element](https://github.com/element-hq/element-web) / [Stoat](https://github.com/stoatchat/self-hosted) / [Mumble](https://github.com/mumble-voip/mumble) / [SimpleX](https://github.com/simplex-chat/simplexmq) / [Jitsi Meet](https://github.com/jitsi/jitsi-meet) / [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk) / [Termix](https://github.com/Termix-SSH/Termix)
 
