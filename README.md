@@ -140,8 +140,6 @@ Communication -> [Mumble](https://github.com/mumble-voip/mumble) / [Jitsi Meet](
 
 Remote Tools -> [RustDesk](https://github.com/rustdesk/rustdesk) / [Termix](https://github.com/Termix-SSH/Termix)
 
-Search Engines -> [SearXNG](https://github.com/searxng/searxng)
-
 
 ## Useful Links
 | Name | Description |
