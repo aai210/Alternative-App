@@ -122,13 +122,13 @@ Photo and Video -> [Immich](https://github.com/immich-app/immich)
 
 Smart Devices -> [Home Assistant](https://github.com/home-assistant/core)
 
-Monitoring -> [Changedetection](https://github.com/dgtlmoon/changedetection.io) - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
+Monitoring -> [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [Changedetection](https://github.com/dgtlmoon/changedetection.io) - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) 
 
 Streaming Service -> [Jellyfin](https://github.com/jellyfin/jellyfin) / [Navidrome](https://github.com/navidrome/navidrome) / [Koel](https://github.com/koel/koel)
 
 Development Tools -> [Gitea](https://github.com/go-gitea/gitea)
 
-Server Software -> [Gotify](https://github.com/gotify/server) - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) - [File Browser](https://github.com/filebrowser/filebrowser)
+Server Software -> [Gotify](https://github.com/gotify/server) - [File Browser](https://github.com/filebrowser/filebrowser)
 
 DNS -> [Pi-Hole](https://github.com/pi-hole/pi-hole) / [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) - [Dnscrypt-Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - [Unbound](https://github.com/NLnetLabs/unbound)   
 
